@@ -13,3 +13,6 @@ The grocery store chain has 10 new stores opening up at the beginning of the yea
 
 ### Forecast sales for produce category in both existing and new stores.
 Fresh produce has a short life span, and due to increasing costs, the company wants to have an accurate monthly sales forecast. We will be using the time series models for forcasting. 
+
+Please refer to the following link for detailed solution
+https://github.com/gmalekar/Combining-Predictive-Techniques/blob/master/ForecastingRevenueForNewStores.pdf
